@@ -1,0 +1,10 @@
+{
+  "name": "our_memory",
+  "version": "1.0.0",
+  "description": "place to record the video and picture",
+  "main": "index.js",
+  "author": "kwonseok Lee",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
